@@ -110,7 +110,7 @@ BibTeX format:
   author       = {Emamjomehzadeh, Omid and Qureshi, Dawar and Cook, Lauren M. and Mascaro, Giuseppe and Aghakouchak, Amir and Mahoney, Kelly and Zarei, Seyedamirhossein and Wani, Omar},
   title        = {BaRaN: Bayesian Rainfall extremes Network design},
   year         = {2026},
-  note         = {GitHub repository accompanying the manuscript ``Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US'' (submitted to Communications Earth \& Environment)},
+  note         = {GitHub repository accompanying the manuscript ``Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US'' (submitted to Communications Earth & Environment)},
   howpublished = {\url{https://github.com/omidemam/BaRaN.git}},
 }
 

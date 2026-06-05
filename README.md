@@ -1,6 +1,6 @@
 # BaRaN
 
-> Ba(yesian) Ra(infall extremes) N(etwork design). This repository presents Bayesian, Maximum Likelihood, and L-moments inference methods' effect on IDF curve computation — and how those choices impact urban drainage design. This GitHub repository accompanies the manuscript *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US* (submitted to Nature Communications).
+> Ba(yesian) Ra(infall extremes) N(etwork design). This repository presents Bayesian, Maximum Likelihood, and L-moments inference methods' effect on IDF curve computation — and how those choices impact urban drainage design. This GitHub repository accompanies the manuscript *Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US* (submitted to Scientific Reports).
 
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-F37626.svg)](https://jupyter.org)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
@@ -110,7 +110,7 @@ BibTeX format:
   author       = {Emamjomehzadeh, Omid and Qureshi, Dawar and Cook, Lauren M. and Mascaro, Giuseppe and Aghakouchak, Amir and Mahoney, Kelly and Zarei, Seyedamirhossein and Wani, Omar},
   title        = {BaRaN: Bayesian Rainfall extremes Network design},
   year         = {2026},
-  note         = {GitHub repository accompanying the manuscript ``Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US'' (submitted to Communications Earth & Environment)},
+  note         = {GitHub repository accompanying the manuscript ``Uncertainty due to limited extreme-rainfall records is consequential for infrastructure design adaptation across the US'' (submitted to Scientific Reports)},
   howpublished = {\url{https://github.com/omidemam/BaRaN.git}},
 }
 
